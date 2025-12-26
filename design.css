@@ -1,0 +1,30 @@
+h1{
+    color: burlywood;
+    text-align: left;
+    font-size: 55px;
+}
+h2{
+    color: burlywood;
+    text-align: left;
+    font-size: 55px;
+}
+body{
+    background-color: white;
+    color: darkblue;
+}
+p{
+    font-size: 35px;
+}
+nav{
+    background-color: white;
+    margin: 0%;
+    padding: 0%;
+    float: right;
+}
+nav a:hover{
+    background-color: white;
+}
+img{
+    width: 1000px;
+    height: 500px;
+}
